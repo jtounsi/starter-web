@@ -9,6 +9,8 @@ project.
 
 ## Purpose
 
+As stated above, the main purpuse is to provide examples for Git training.
+
 ## Deployment
 
 ## How To Contribute
