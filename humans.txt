@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Jihed Tounsi -- Networks -- @jtounsi
 
 # THANKS
 
