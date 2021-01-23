@@ -15,3 +15,7 @@ As stated above, the main purpuse is to provide examples for Git training.
 
 ## How To Contribute
 
+### Copyright
+
+2020 Git.Training
+
